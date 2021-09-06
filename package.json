@@ -1,0 +1,26 @@
+{
+  "name": "generative-art",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/contracts": "^4.3.1",
+    "base64-sol": "^1.0.1",
+    "canvas": "^2.8.0",
+    "dotenv": "^10.0.0",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.4.6",
+    "hardhat": "^2.6.2",
+    "hardhat-deploy": "^0.9.1",
+    "hardhat-ethers": "^1.0.1",
+    "jsdom": "^17.0.0",
+    "path2d-polyfill": "^1.1.2"
+  }
+}
